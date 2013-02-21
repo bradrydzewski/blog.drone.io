@@ -15,24 +15,3 @@ Please [contact](http://docs.drone.io/contact.html) us with any questions or sug
 
 Thanks,<br/>
 **Tom Burke and Brad Rydzewski**
-
----
-
-## Screenshots
-
-Click on the screenshots below to get a feel for the product:
-
-<a class="gallery" rel="group1" href="/img/screenshot_dashboard.png">![Project Dashboard](/img/thumbnail_dashboard.png)</a>
-<a class="gallery" rel="group1" href="/img/screenshot_new-project.png">![Adding a new project](/img/thumbnail_new-project.png)</a>
-<a class="gallery" rel="group1" href="/img/screenshot_build-script.png">![Configuring Builds](/img/thumbnail_build-script.png)</a>
-<a class="gallery" rel="group1" href="/img/screenshot_deployments.png">![Configure Auto-Deploy](/img/thumbnail_deployments.png)</a>
-<a class="gallery" rel="group1" href="/img/screenshot_build-detail.png">![Build Results](/img/thumbnail_build-detail.png)</a>
-
----
-
-## Additional links
-
-* [http://martinfowler.com/articles/continuousIntegration.html](http://martinfowler.com/articles/continuousIntegration.html)
-* [http://en.wikipedia.org/wiki/Agile_software_development](http://en.wikipedia.org/wiki/Agile_software_development)
-
-
